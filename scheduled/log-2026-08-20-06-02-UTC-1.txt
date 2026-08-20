@@ -1,0 +1,4 @@
+Scheduled contribution
+Timestamp: 2026-08-20 06:02 UTC
+Item 1 of 1
+Trigger: 7 5 20 8 *
